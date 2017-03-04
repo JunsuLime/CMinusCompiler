@@ -1,0 +1,9 @@
+### C ###
+*.o
+
+cscope*
+
+### tester ###
+a.out
+function_tester*
+example*
